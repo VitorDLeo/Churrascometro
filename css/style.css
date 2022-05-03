@@ -1,0 +1,27 @@
+.container{
+    max-width: 300px;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
